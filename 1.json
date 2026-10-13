@@ -1,0 +1,219 @@
+{
+    "id_29": {
+        "name": "знак 'движение прямо' #29",
+        "file": "Start.png",
+        "rotation": 0,
+        "position_x": 672.0,
+        "position_y": 416.0
+    },
+    "id_28": {
+        "name": "знак 'стоп' #28",
+        "file": "Stop.png",
+        "rotation": 0,
+        "position_x": 480.0,
+        "position_y": 608.0
+    },
+    "id_27": {
+        "name": "знак 'стоп' #27",
+        "file": "Stop.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 416.0
+    },
+    "id_26": {
+        "name": "знак 'движение прямо' #26",
+        "file": "Start.png",
+        "rotation": 0,
+        "position_x": 480.0,
+        "position_y": 640.0
+    },
+    "id_31": {
+        "name": "красная машина #31",
+        "file": "Cvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 448.0
+    },
+    "id_30": {
+        "name": "синяя машина #30",
+        "file": "BCvertical.png",
+        "rotation": 90,
+        "position_x": 512.0,
+        "position_y": 640.0
+    },
+    "id_25": {
+        "name": "дорога вертик. #25",
+        "file": "Rvertical.png",
+        "rotation": 90,
+        "position_x": 512.0,
+        "position_y": 640.0
+    },
+    "id_24": {
+        "name": "дорога вертик. #24",
+        "file": "Rvertical.png",
+        "rotation": 270,
+        "position_x": 512.0,
+        "position_y": 608.0
+    },
+    "id_23": {
+        "name": "перекресток #23",
+        "file": "Rcrossroads.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 640.0
+    },
+    "id_22": {
+        "name": "перекресток #22",
+        "file": "Rcrossroads.png",
+        "rotation": 0,
+        "position_x": 672.0,
+        "position_y": 640.0
+    },
+    "id_21": {
+        "name": "перекресток #21",
+        "file": "Rcrossroads.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 608.0
+    },
+    "id_20": {
+        "name": "перекресток #20",
+        "file": "Rcrossroads.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 608.0
+    },
+    "id_19": {
+        "name": "перекресток #19",
+        "file": "Rcrossroads.png",
+        "rotation": 0,
+        "position_x": 672.0,
+        "position_y": 608.0
+    },
+    "id_18": {
+        "name": "дорога вертик. #18",
+        "file": "Rvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 448.0
+    },
+    "id_17": {
+        "name": "дорога вертик. #17",
+        "file": "Rvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 512.0
+    },
+    "id_16": {
+        "name": "дорога вертик. #16",
+        "file": "Rvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 480.0
+    },
+    "id_15": {
+        "name": "дорога вертик. #15",
+        "file": "Rvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 576.0
+    },
+    "id_14": {
+        "name": "дорога вертик. #14",
+        "file": "Rvertical.png",
+        "rotation": 270,
+        "position_x": 544.0,
+        "position_y": 608.0
+    },
+    "id_13": {
+        "name": "дорога вертик. #13",
+        "file": "Rvertical.png",
+        "rotation": 270,
+        "position_x": 608.0,
+        "position_y": 608.0
+    },
+    "id_12": {
+        "name": "дорога вертик. #12",
+        "file": "Rvertical.png",
+        "rotation": 90,
+        "position_x": 576.0,
+        "position_y": 640.0
+    },
+    "id_11": {
+        "name": "дорога вертик. #11",
+        "file": "Rvertical.png",
+        "rotation": 270,
+        "position_x": 576.0,
+        "position_y": 608.0
+    },
+    "id_10": {
+        "name": "дорога вертик. #10",
+        "file": "Rvertical.png",
+        "rotation": 90,
+        "position_x": 544.0,
+        "position_y": 640.0
+    },
+    "id_9": {
+        "name": "дорога вертик. #9",
+        "file": "Rvertical.png",
+        "rotation": 90,
+        "position_x": 608.0,
+        "position_y": 640.0
+    },
+    "id_8": {
+        "name": "дорога вертик. #8",
+        "file": "Rvertical.png",
+        "rotation": 90,
+        "position_x": 640.0,
+        "position_y": 640.0
+    },
+    "id_7": {
+        "name": "дорога вертик. #7",
+        "file": "Rvertical.png",
+        "rotation": 270,
+        "position_x": 640.0,
+        "position_y": 608.0
+    },
+    "id_6": {
+        "name": "дорога вертик. #6",
+        "file": "Rvertical.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 576.0
+    },
+    "id_5": {
+        "name": "дорога вертик. #5",
+        "file": "Rvertical.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 544.0
+    },
+    "id_4": {
+        "name": "дорога вертик. #4",
+        "file": "Rvertical.png",
+        "rotation": 180,
+        "position_x": 672.0,
+        "position_y": 544.0
+    },
+    "id_3": {
+        "name": "дорога вертик. #3",
+        "file": "Rvertical.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 480.0
+    },
+    "id_2": {
+        "name": "дорога вертик. #2",
+        "file": "Rvertical.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 512.0
+    },
+    "id_1": {
+        "name": "дорога вертик. #1",
+        "file": "Rvertical.png",
+        "rotation": 0,
+        "position_x": 704.0,
+        "position_y": 448.0
+    }
+}
